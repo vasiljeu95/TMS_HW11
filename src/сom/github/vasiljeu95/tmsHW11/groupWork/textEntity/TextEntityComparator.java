@@ -1,4 +1,4 @@
-package сom.github.vasiljeu95.tmsHW11.groupWork;
+package сom.github.vasiljeu95.tmsHW11.groupWork.textEntity;
 
 import java.util.Comparator;
 
@@ -11,7 +11,6 @@ public class TextEntityComparator implements Comparator<TextEntity> {
         } else if (te1.getSerialNumber() < te2.getSerialNumber()) {
             return -1;
         }
-
         return 0;
     }
 }

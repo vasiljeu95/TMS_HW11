@@ -1,7 +1,6 @@
 package сom.github.vasiljeu95.tmsHW11.groupWork.operatorsGroupWork;
 
-import org.w3c.dom.Text;
-import сom.github.vasiljeu95.tmsHW11.groupWork.TextProcessableGroupWork;
+import сom.github.vasiljeu95.tmsHW11.groupWork.processable.TextProcessableGroupWork;
 
 public class ReplaceInformationGroupWork implements TextProcessableGroupWork {
     String objectToReplace;

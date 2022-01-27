@@ -1,6 +1,7 @@
-package сom.github.vasiljeu95.tmsHW11.groupWork;
+package сom.github.vasiljeu95.tmsHW11.groupWork.data;
 
-import java.io.FileNotFoundException;
+import сom.github.vasiljeu95.tmsHW11.groupWork.textEntity.TextEntity;
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -8,12 +9,6 @@ import java.util.Random;
 
 public class WriteObject {
     public static void main(String[] args) {
-//        TextEntity[] entities = {
-//                new TextEntity(4, "firstText"),
-//                new TextEntity (1, "secondText"),
-//                new TextEntity (3, "thirdText"),
-//                new TextEntity(5, "fourthText")
-//        };
         TextEntity[] entities = generateTextEntity(4);
 
         try {

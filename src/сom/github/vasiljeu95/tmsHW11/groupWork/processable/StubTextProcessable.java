@@ -1,4 +1,4 @@
-package сom.github.vasiljeu95.tmsHW11.groupWork;
+package сom.github.vasiljeu95.tmsHW11.groupWork.processable;
 
 public class StubTextProcessable implements TextProcessableGroupWork {
 

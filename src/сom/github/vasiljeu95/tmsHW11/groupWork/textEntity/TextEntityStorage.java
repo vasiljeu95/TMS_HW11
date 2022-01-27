@@ -1,6 +1,4 @@
-package сom.github.vasiljeu95.tmsHW11.groupWork;
-
-import сom.github.vasiljeu95.tmsHW11.groupWork.TextEntity;
+package сom.github.vasiljeu95.tmsHW11.groupWork.textEntity;
 
 import java.io.Serializable;
 

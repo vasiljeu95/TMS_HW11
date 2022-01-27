@@ -1,6 +1,6 @@
 package сom.github.vasiljeu95.tmsHW11.groupWork.operatorsGroupWork;
 
-import сom.github.vasiljeu95.tmsHW11.groupWork.TextProcessableGroupWork;
+import сom.github.vasiljeu95.tmsHW11.groupWork.processable.TextProcessableGroupWork;
 
 public class AppendInformationGroupWork implements TextProcessableGroupWork {
     String insertAtTheEnd;

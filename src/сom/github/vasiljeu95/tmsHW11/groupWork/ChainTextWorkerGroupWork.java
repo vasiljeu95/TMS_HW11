@@ -23,8 +23,6 @@ public class ChainTextWorkerGroupWork {
         return inputArrayText;
     }
 
-
-
     String processText(String input) {
         StringBuilder inputText = new StringBuilder(input);
 
